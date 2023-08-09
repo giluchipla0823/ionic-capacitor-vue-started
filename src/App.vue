@@ -5,5 +5,5 @@
 </template>
 
 <script setup lang="ts">
-import { IonApp, IonRouterOutlet } from '@ionic/vue';
+import { IonApp, IonRouterOutlet, IonPage, IonHeader, IonToolbar, IonTitle, IonContent, IonMenu } from '@ionic/vue';
 </script>
